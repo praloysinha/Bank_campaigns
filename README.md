@@ -1,7 +1,7 @@
 This repository has the bank campaign data and the Jupiter notebook of the classification models created to predict the loan conversion
 
 
-The link to the Jupiter noteboom is https://github.com/praloysinha/Bank_campaigns/blob/main/Praloy_practical_3.ipynb
+The link to the Jupiter notebook is https://github.com/praloysinha/Bank_campaigns/blob/main/Praloy_practical_3.ipynb
 
 **Objective:** 
 
